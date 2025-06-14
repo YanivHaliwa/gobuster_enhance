@@ -24,7 +24,7 @@ A Python wrapper that enhances the Gobuster tool with configuration management a
 
 1. Clone the repository using the following command:
 
-```bash
+```bash 
 git clone https://github.com/YanivHaliwa/gobuster_enhance.git
 cd gobuster_enhance
 ```
