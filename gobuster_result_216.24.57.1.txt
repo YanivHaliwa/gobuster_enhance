@@ -1,0 +1,70 @@
+===============================================================
+Gobuster v3.8
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:            https://yanivhaliwa.com
+[+] Method:         GET
+[+] Threads:        100
+[+] Wordlist:       /home/yaniv/wl/yaniv_wordlist/dir-all.txt
+[+] Status codes:   200,301,302,403,401,500
+[+] User Agent:     gobuster/3.8
+[+] Timeout:        10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+===============================================================
+Gobuster v3.8
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:            https://yanivhaliwa.com
+[+] Method:         GET
+[+] Threads:        100
+[+] Wordlist:       /home/yaniv/wl/yaniv_wordlist/dir-all.txt
+[+] Status codes:   200,301,302,403,401,500
+[+] User Agent:     gobuster/3.8
+[+] Timeout:        10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+===============================================================
+Gobuster v3.8
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:            https://yanivhaliwa.com
+[+] Method:         GET
+[+] Threads:        100
+[+] Wordlist:       /home/yaniv/wl/yaniv_wordlist/dir-all.txt
+[+] Status codes:   302,403,401,500,200,301
+[+] User Agent:     gobuster/3.8
+[+] Timeout:        10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+===============================================================
+Gobuster v3.8
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:            https://yanivhaliwa.com
+[+] Method:         GET
+[+] Threads:        100
+[+] Wordlist:       /home/yaniv/wl/yaniv_wordlist/dir-all.txt
+[+] Status codes:   301,302,403,401,500,200
+[+] User Agent:     gobuster/3.8
+[+] Timeout:        10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+===============================================================
+Gobuster v3.8
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:            https://yanivhaliwa.com
+[+] Method:         GET
+[+] Threads:        100
+[+] Wordlist:       /home/yaniv/wl/yaniv_wordlist/dir-all.txt
+[+] Status codes:   200,301,302,403,401,500
+[+] User Agent:     gobuster/3.8
+[+] Timeout:        10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================

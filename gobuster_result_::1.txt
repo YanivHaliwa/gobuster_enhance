@@ -1,0 +1,95 @@
+===============================================================
+Gobuster v3.8
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:            http://localhost
+[+] Method:         GET
+[+] Threads:        100
+[+] Wordlist:       /home/yaniv/wl/yaniv_wordlist/dir-all.txt
+[+] Status codes:   500,200,301,302,403,401
+[+] User Agent:     gobuster/3.8
+[+] Timeout:        10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+===============================================================
+Gobuster v3.8
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:            http://localhost
+[+] Method:         GET
+[+] Threads:        100
+[+] Wordlist:       /home/yaniv/wl/yaniv_wordlist/dir-all.txt
+[+] Status codes:   401,500,200,301,302,403
+[+] User Agent:     gobuster/3.8
+[+] Timeout:        10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+===============================================================
+Gobuster v3.8
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:            http://localhost
+[+] Method:         GET
+[+] Threads:        100
+[+] Wordlist:       /home/yaniv/wl/yaniv_wordlist/dir-all.txt
+[+] Status codes:   500,200,301,302,403,401
+[+] User Agent:     gobuster/3.8
+[+] Timeout:        10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/example              (Status: 301) [Size: 308] [--> http://localhost/example/]
+/forum                (Status: 301) [Size: 306] [--> http://localhost/forum/]
+/javascript           (Status: 301) [Size: 311] [--> http://localhost/javascript/]
+/php                  (Status: 301) [Size: 304] [--> http://localhost/php/]
+/secret               (Status: 301) [Size: 307] [--> http://localhost/secret/]
+===============================================================
+Gobuster v3.8
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:            http://localhost
+[+] Method:         GET
+[+] Threads:        100
+[+] Wordlist:       /home/yaniv/wl/yaniv_wordlist/dir-all.txt
+[+] Status codes:   301,302,403,401,500,200
+[+] User Agent:     gobuster/3.8
+[+] Timeout:        10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/example              (Status: 301) [Size: 308] [--> http://localhost/example/]
+/forum                (Status: 301) [Size: 306] [--> http://localhost/forum/]
+/javascript           (Status: 301) [Size: 311] [--> http://localhost/javascript/]
+/php                  (Status: 301) [Size: 304] [--> http://localhost/php/]
+/secret               (Status: 301) [Size: 307] [--> http://localhost/secret/]
+/store                (Status: 301) [Size: 306] [--> http://localhost/store/]
+/wordpress            (Status: 301) [Size: 310] [--> http://localhost/wordpress/]
+===============================================================
+Finished
+===============================================================
+===============================================================
+Gobuster v3.8
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:            http://localhost
+[+] Method:         GET
+[+] Threads:        100
+[+] Wordlist:       /home/yaniv/wl/yaniv_wordlist/dir-all.txt
+[+] Status codes:   301,302,403,401,500,200
+[+] User Agent:     gobuster/3.8
+[+] Timeout:        10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/example              (Status: 301) [Size: 308] [--> http://localhost/example/]
+/forum                (Status: 301) [Size: 306] [--> http://localhost/forum/]
+/javascript           (Status: 301) [Size: 311] [--> http://localhost/javascript/]
+/php                  (Status: 301) [Size: 304] [--> http://localhost/php/]
+/secret               (Status: 301) [Size: 307] [--> http://localhost/secret/]
+/store                (Status: 301) [Size: 306] [--> http://localhost/store/]
+/wordpress            (Status: 301) [Size: 310] [--> http://localhost/wordpress/]
+===============================================================
+Finished
+===============================================================
